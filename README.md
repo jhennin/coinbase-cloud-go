@@ -5,7 +5,7 @@ This project is designed to get you started with [Coinbase Cloud Exchange API](h
 ## How to Run the Application
 Clone the repository: 
 
-`git clone [INSERT REPO URL HERE]`
+`git clone https://github.com/jhennin/coinbase-cloud-go.git`
 
 Change to the project root directory to **run the application**:
 
