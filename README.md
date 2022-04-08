@@ -7,6 +7,8 @@ Clone the repository:
 
 `git clone https://github.com/jhennin/coinbase-cloud-go.git`
 
+Add your API keys to `config-DEV.yaml` and to `config-TEST.yaml`
+
 Change to the project root directory to **run the application**:
 
 `go run .`
