@@ -5,13 +5,13 @@ This project is designed to get you started with [Coinbase Cloud Exchange API](h
 ## How to Run the Application
 1. Clone the repository: 
 
-`git clone https://github.com/jhennin/coinbase-cloud-go.git`
+      `git clone https://github.com/jhennin/coinbase-cloud-go.git`
 
 2. Add your API keys to `config-DEV.yaml` and to `config-TEST.yaml`
 
 3. Change to the project root directory to **run the application**:
 
-`go run .`
+      `go run .`
 
 ## Run Tests
 All tests currently live in the `coinbaseProAPI_test.go` file at the project root. 
