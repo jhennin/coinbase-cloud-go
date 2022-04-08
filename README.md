@@ -3,13 +3,13 @@
 This project is designed to get you started with [Coinbase Cloud Exchange API](https://docs.cloud.coinbase.com/exchange/docs) with GoLang. It provides example code for integrating with endpoints in the [Exchange API](https://docs.cloud.coinbase.com/exchange/reference/exchangerestapi_getcurrency).
 
 ## How to Run the Application
-Clone the repository: 
+1. Clone the repository: 
 
 `git clone https://github.com/jhennin/coinbase-cloud-go.git`
 
-Add your API keys to `config-DEV.yaml` and to `config-TEST.yaml`
+2. Add your API keys to `config-DEV.yaml` and to `config-TEST.yaml`
 
-Change to the project root directory to **run the application**:
+3. Change to the project root directory to **run the application**:
 
 `go run .`
 
